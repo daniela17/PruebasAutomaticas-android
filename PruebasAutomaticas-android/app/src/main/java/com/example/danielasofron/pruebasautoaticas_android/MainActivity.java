@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("Probando el log-cambio1", "Probando el log - cambio1");
 
-        String variable = null;
-        Log.d("Excepción prueba", variable);
+        //String variable = null;
+        //Log.d("Excepción prueba", variable);
     }
 
     @Override
