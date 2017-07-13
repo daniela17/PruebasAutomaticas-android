@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Log.d("Probando el log-cambio1", "Probando el log - cambio1");
+
+        String variable = null;
+        Log.d("Excepción", variable);
     }
 
     @Override
